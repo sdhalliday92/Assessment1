@@ -1,0 +1,10 @@
+{
+  "Tests/assessment_test.py::test_eight": true,
+  "Tests/assessment_test.py::test_five": true,
+  "Tests/assessment_test.py::test_four": true,
+  "Tests/assessment_test.py::test_one": true,
+  "Tests/assessment_test.py::test_seven": true,
+  "Tests/assessment_test.py::test_six": true,
+  "Tests/assessment_test.py::test_three": true,
+  "Tests/assessment_test.py::test_two": true
+}
